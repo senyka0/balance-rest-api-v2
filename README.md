@@ -24,3 +24,5 @@ npm run prod
 | /api/healthcheck	| GET |	Check if server is working |
 | /api/balance/:address |	GET	| Get address balance |
 | /api/track |	GET	| Start tracking addresses from config file |
+
+Deployed to https://balance-rest-api-v2-0.onrender.com
